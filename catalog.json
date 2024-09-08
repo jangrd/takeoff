@@ -1,0 +1,12 @@
+{
+    "winget": [
+        {
+            "name": "AutoHotkey",
+            "package": "AutoHotkey.AutoHotkey"
+        },
+        {
+            "name": "Flow Launcher",
+            "package": "\"Flow Launcher\""
+        }
+    ]
+}
